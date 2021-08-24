@@ -1,4 +1,4 @@
-## .NET Framework - <a name=".netframework"></a>
+## .NET Framework - <a name=".netframework" target="_blank"></a>
 
 .NET is a framework to develop software applications. It is designed and developed by Microsoft and the first beta version released in 2000.
 
