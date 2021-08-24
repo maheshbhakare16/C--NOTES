@@ -1,6 +1,6 @@
 # C#.Net Notes :
 ## Table of Contents 
-* [.Net Framework](#.netframework)
+* [.Net Framework](./introduction_to_.net#.netframework)
 * [CLR](#clr)
 * [FCL](#fcl)
 * [Core Languages](#cl)
