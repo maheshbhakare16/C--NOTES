@@ -7,3 +7,6 @@
      * [Other Modules](./Introduction_to_.Net.md#other_modules)
 * [C# ](./Introduction_to_c_sharp.md#intro)
   * [Introduction](./Introduction_to_c_sharp.md#intro)
+  * [java vs c#](./Introduction_to_c_sharp.md#javavsc#)
+  * [History](./Introduction_to_c_sharp.md#history)
+  * [Features](./Introduction_to_c_sharp.md#features)
