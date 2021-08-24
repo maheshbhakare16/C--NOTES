@@ -29,12 +29,99 @@ It is a program execution engine that loads and executes the program. It convert
 
 ![CLR](https://static.javatpoint.com/csharp/net/images/net-common-language-runtime.png)
 
+**.NET CLR Functions :**
+
+Following are the functions of the CLR.
+
+1. It converts the program into native code.
+2. Handles Exceptions
+3. Provides type-safety
+4. Memory management
+5. Provides security
+6. Improved performance
+7. Language independent
+8. Platform independent
+9. Garbage collection
+10. Provides language features such as inheritance, interfaces, and overloading for object-oriented programmings.
+
+**.NET CLR Versions :**
+
+The CLR updates itself time to time to provide better performance.
+
+.NET version | CLR versions
+--- | ---
+1.0	| 1.0
+1.1	| 1.1
+2.0	| 2.0
+3.0	| 2.0
+3.5	| 2.0
+4 | 4
+4.5 | 4
+4.6 | 4
+4.6 | 4
+
+**Base Class Library Support :**
+
+It is a class library that provides support of classes to the .NET application.
+
+**Thread Support :**
+
+It manages the parallel execution of the multi-threaded application.
+
+**COM Marshaler :**
+
+It provides communication between the COM objects and the application.
+
+**Type Checker :**
+
+It checks types used in the application and verifies that they match to the standards provided by the CLR.
+
+**Code Manager :**
+
+It manages code at execution run-time.
+
+**Garbage Collector :**
+
+It releases the unused memory and allocates it to a new application.
+
+**ClassLoader :**
+
+It is used to load all classes at run time.
+
 ---
 > **2) FCL (Framework Class Library) :**<a name="fcl"></a>
 
 It is a standard library that is a collection of thousands of classes and used to build an application. The BCL (Base Class Library) is the core of the FCL and provides basic functionalities.
 
 ![FCl](https://static.javatpoint.com/csharp/net/images/net-framework-base-class-library.png)
+
+It contains thousands of classes that supports the following functions.
+
+- Base and user-defined data types
+- Support for exceptions handling
+- input/output and stream operations
+- Communications with the underlying system
+- Access to data
+- Ability to create Windows-based GUI applications
+- Ability to create web-client and server applications
+- Support for creating web services
+
+**.NET Framework Class Library Namespaces :**
+
+Following are the commonly used namespaces that contains useful classes and interfaces and defined in Framework Class Library.
+
+Namespaces	| Description
+---------- | --------------
+System	| It includes all common datatypes, string values, arrays and methods for data conversion.
+System.Data, System.Data.Common, System.Data.OleDb, System.Data.SqlClient, System.Data.SqlTypes | These are used to access a database, perform commands on a database and retrieve database.
+System.IO, System.DirectoryServices, System.IO.IsolatedStorage |	These are used to access, read and write files.
+System.Diagnostics	| It is used to debug and trace the execution of an application.
+System.Net, System.Net.Sockets	| These are used to communicate over the Internet when creating peer-to-peer applications.
+System.Windows.Forms, System.Windows.Forms.Design	| These namespaces are used to create Windows-based applications using Windows user interface components.
+System.Web, System.WebCaching, System.Web.UI, System.Web.UI.Design, System.Web.UI.WebControls, System.Web.UI.HtmlControls, System.Web.Configuration, System.Web.Hosting, System.Web.Mail, System.Web.SessionState	| These are used to create ASP. NET Web applications that run over the web.
+System.Web.Services, System.Web.Services.Description, System.Web.Services.Configuration, System.Web.Services.Discovery, System.Web.Services.Protocols	| These are used to create XML Web services and components that can be published over the web.
+System.Security, System.Security.Permissions, System.Security.Policy, System.WebSecurity, System.Security.Cryptography	| These are used for authentication, authorization, and encryption purpose.
+System.Xml, System.Xml.Schema, System.Xml.Serialization, System.Xml.XPath, System.Xml.Xsl	| These namespaces are used to create and access XML files.
 
 ---
 > **3. Core Languages :**<a name="cl"></a>
